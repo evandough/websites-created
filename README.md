@@ -16,7 +16,6 @@ Each project has its own folder with a detailed `README.md` explaining its setup
 
 ### [📂 Azure Website](./azure-site/README.md)
 - Hosted on Microsoft Azure
-- Built with [Technology Used] (e.g., React, Node.js, Flask)
-- Deployed using Azure App Services
+- Deployed using Azure DevOps
 
 Feel free to explore each project's folder for more details!
