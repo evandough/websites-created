@@ -13,10 +13,11 @@ This website was built using WordPress and hosted on AWS Lightsail.
 1. Purchased a domain and set up DNS in Cloudflare
 2. Created an AWS Lightsail instance with WordPress
 3. Connected to instance using SSH to gain access to WordPress
-4. Attached static IP for easy DNS swapping
-5. Designed and customized the WordPress theme
-6. Secured the site with HTTPS
-7. Migrated the site using All-in-One WP Migration
+4. Attached static IP for easy DNS management and swapping
+5. Implemented daily snapshots for site reliability and recovery
+6. Designed and customized the WordPress theme
+7. Secured the site with HTTPS
+8. Migrated the site using All-in-One WP Migration
 
 ## Screenshots
 <!-- ![Homepage](screenshots/homepage.png) -->
