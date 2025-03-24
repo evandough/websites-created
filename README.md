@@ -14,7 +14,7 @@ Each project has its own folder with a detailed `README.md` explaining its setup
 - Built with WordPress
 - Configured with Cloudflare for DNS and security
 
-### [📂 Azure Website](./azure-site/README.md)
+### [📂 Azure Website](./azure-website/README.md)
 - Hosted on Microsoft Azure
 - Deployed using Azure DevOps
 
