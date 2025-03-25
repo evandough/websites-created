@@ -19,5 +19,5 @@ This website was built using WordPress and hosted on AWS Lightsail.
 7. Secured the site with HTTPS
 8. Migrated the site using All-in-One WP Migration
 
-## Screenshots
-<!-- ![Homepage](screenshots/homepage.png) -->
+<!-- ## Screenshots
+ ![Homepage](screenshots/homepage.png) -->
