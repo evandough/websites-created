@@ -1,0 +1,49 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  // UPDATE THESE PARAMETERS WITH YOUR PREFERRED VALUES!
+  // For help defining your naming conventions visit: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming
+  "parameters": {
+    "location": {
+      "value": "LOCATION FOR RESOURCES" // e.g., eastus
+    },
+    "appServicePlanName": {
+      "value": "asp-YOUR-APP-SERVICE-PLAN"
+    },
+    "webAppFrontEndName": {
+      "value": "app-YOUR-WEBAPP-NAME"
+    },
+    "resourceGroupName": {
+      "value": "rg-YOUR-RG-NAME"
+    },
+    "keyVaultName": {
+      "value": "kv-YOUR-KV-NAME"
+    },
+    "keyVaultSku": {
+      "value": "standard" // update to your preferred SKU
+    },
+    "secretsPermissions": {
+      "value": [
+        "get",
+        "list"
+      ]
+    },
+    "frontendCertificatePermissions": {
+      "value": [
+        "get",
+        "list"
+      ]
+    },
+    "createSecretPermissions": {
+      "value": [
+        "set"
+      ]
+    },
+    "createCertificatePermissions": {
+      "value": [
+        "create",
+        "list"
+      ]
+    }
+  }
+}
