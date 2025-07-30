@@ -12,8 +12,8 @@ This website was built using WordPress and hosted on AWS Lightsail.
 ## Setup Steps
 1. Purchased a domain and set up DNS in Cloudflare
 2. Created an AWS Lightsail instance with WordPress
-3. Connected to instance using SSH to gain access to WordPress
-4. Attached static IP for easy DNS management and swapping
+3. Attached static IP for easy DNS management and swapping
+4. Connected to instance using SSH to gain access to WordPress
 5. Implemented daily snapshots for site reliability and recovery
 6. Designed and customized the WordPress theme
 7. Secured the site with HTTPS
