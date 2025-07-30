@@ -130,11 +130,7 @@
                 "tier": "Basic",
                 "capacity": 1
             },
-            "properties": {},
-            "tags": {
-                "environment": "development",
-                "project": "webapp"
-            }
+            "properties": {}
         },
         {
             "name": "[parameters('webAppFrontEndName')]",
