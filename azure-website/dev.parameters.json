@@ -20,7 +20,7 @@
       "value": "kv-YOUR-KV-NAME"
     },
     "keyVaultSku": {
-      "value": "standard" // update to your preferred SKU
+      "value": "standard" // Update to your preferred SKU
     },
     "secretsPermissions": {
       "value": [
